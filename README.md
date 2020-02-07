@@ -1,6 +1,6 @@
 # dailyNotes
 
-## Run the project
+## Run project
 `npm start`
 
 ## Compile
