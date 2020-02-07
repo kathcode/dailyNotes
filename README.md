@@ -1,7 +1,7 @@
 # dailyNotes
 
 ## Run the project
-´npm start´
+`npm start`
 
 ## Compile
-´npm build´
+`npm build`
